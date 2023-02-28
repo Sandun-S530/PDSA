@@ -25,9 +25,7 @@
         List<Node> nodes = linkedList.getAllNodes();
 
         for (Node node : nodes) {
-        	
-        	if(node== null){
-        		
+        	if(node== null){       		
         	}
         	else{
     %>
